@@ -1,1 +1,1 @@
-# Exercices de base - version de l'etudiant A
+# Exercices de base - versions des etudiants A et B
